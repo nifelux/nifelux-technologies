@@ -33,8 +33,8 @@ export default function ServicesPage() {
       </section>
       <section className="py-20 bg-nfx-black text-center">
         <div className="max-w-2xl mx-auto px-4">
-          <h2 className="font-syne font-extrabold text-3xl md:text-4xl text-nfx-white mb-4">Ready to Build Something?</h2>
-          <p className="text-nfx-slate mb-8">Talk to us about what you think</p>
+          <h2 className="font-syne font-extrabold text-3xl md:text-4xl text-nfx-white mb-4">Want to tell us something?</h2>
+          <p className="text-nfx-slate mb-8">Talk to us about what you think and your support to the company</p>
           <Button href="/contact" size="lg">Start a Conversation</Button>
         </div>
       </section>
