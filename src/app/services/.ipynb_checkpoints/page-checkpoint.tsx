@@ -34,7 +34,7 @@ export default function ServicesPage() {
       <section className="py-20 bg-nfx-black text-center">
         <div className="max-w-2xl mx-auto px-4">
           <h2 className="font-syne font-extrabold text-3xl md:text-4xl text-nfx-white mb-4">Ready to Build Something?</h2>
-          <p className="text-nfx-slate mb-8">Talk to us about what you think</p>
+          <p className="text-nfx-slate mb-8">Talk to us about your project. We would love to help bring your vision to life.</p>
           <Button href="/contact" size="lg">Start a Conversation</Button>
         </div>
       </section>

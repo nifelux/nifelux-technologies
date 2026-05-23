@@ -2,8 +2,8 @@ export const SITE = {
   name: 'Nifelux Technologies',
   founder: 'Oluwanifemi Abdullahi Olude',
   founderRole: 'Founder & CEO',
-  email: 'oluwanifemiolude682@gmail.com',
-  phone: '+2347079496045',
+  email: 'contact@nifelux.com',
+  phone: '+234 000 000 0000',
 }
 export const NAV_LINKS = [
   { label: 'Home', href: '/' },
@@ -13,7 +13,7 @@ export const NAV_LINKS = [
   { label: 'Certifications', href: '/certifications' },
   { label: 'Contact', href: '/contact' },
 ]
-export const SOCIAL_LINKS = { facebook: 'https://facebook.com/nifelux', telegram: 'https://t.me/Nifeluxtech', whatsapp: 'https://wa.me/+2349012124538', twitter: 'https://twitter.com/nifelux' }
+export const SOCIAL_LINKS = { facebook: 'https://facebook.com/', telegram: 'https://t.me/', whatsapp: 'https://wa.me/', twitter: 'https://twitter.com/' }
 export const SERVICES = [
   { id:'ai', title:'Artificial Intelligence', description:'Building intelligent systems that learn, adapt, and solve real-world problems.', icon:'🧠', color:'blue' },
   { id:'robotics', title:'Robotics', description:'Smart robotic systems for automation, research, and industrial applications in Africa.', icon:'🤖', color:'blue' },
